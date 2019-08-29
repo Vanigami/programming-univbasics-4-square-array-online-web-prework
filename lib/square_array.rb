@@ -4,7 +4,7 @@ numbers = []
  
 while counter < numbers.length do
   new_numbers = [(numbers ** 2)]
-  puts new_number
+  p new_number
   counter += 1
 end
 end
