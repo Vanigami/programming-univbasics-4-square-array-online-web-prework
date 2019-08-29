@@ -3,7 +3,7 @@ counter = 0
 numbers = [1, 2, 3]
  
 while numbers[counter] do
-  new_numbers = [(numbers ** 2)]
+  new_numbers = [numbers ** 2]
   puts new_number[counter]
   counter += 1
 end
