@@ -1,6 +1,6 @@
 def square_array(numbers)
 counter = 0
-numbers = []
+numbers = [1, 2, 3]
  
 while counter < numbers.length do
   new_numbers = [numbers * numbers]
